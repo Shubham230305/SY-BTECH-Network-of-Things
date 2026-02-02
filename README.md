@@ -11,11 +11,6 @@ This repository contains all lab exercise program files for the subject **NETWOR
 
 - Arduino(C/C++)
 
-## 👨‍💻 Author
-
-Name : Shubham Shinde  
-Course : B.Tech
-
 ## 📅 Academic Year
 
 2024-25
